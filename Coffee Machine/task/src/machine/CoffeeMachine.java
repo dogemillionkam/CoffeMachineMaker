@@ -1,6 +1,5 @@
 package machine;
 import java.util.Scanner;
-
  enum CoffeeMachineState {
     PRINTINGTOTALS(1),
     TAKINGMONEY(2),
